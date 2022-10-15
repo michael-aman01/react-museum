@@ -1,0 +1,8 @@
+h1:active {
+    color: aqua;
+}
+
+nav {
+    display: flex;
+    justify-items: space-between;
+}
